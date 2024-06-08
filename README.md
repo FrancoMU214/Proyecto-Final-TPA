@@ -914,7 +914,7 @@ Esta clase es esencial para la gestión de usuarios dentro del sistema de la bib
 5. y ya, ahora podremos hacer uso del proyecto
 
 # FUNCIONAMIENTO
-Para cualquier duda pueden consultar el siguiente enlace que proporciona los pasos mas detallados: 
+Para cualquier duda pueden consultar el siguiente enlace que proporciona los pasos mas detallados: https://youtu.be/pH6tl33vqiw 
 
 # CONTRIBUIR
 En caso de querer contribuir a este proyecto, por favor sigue los siguientes pasos: 
